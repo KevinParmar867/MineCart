@@ -1,7 +1,8 @@
 # MineCart
 MineCart is an online application designed to facilitate product management and sales for a firm that sells various products from different vendors. The primary objective is to enable the owner to upload products of various types to a website, allowing customers to browse, select, and purchase these products.
 
-## Note : Upon initial setup, users are assigned the role of "user" by default. To access the functionalities for adding, updating, and deleting products, the user role needs to be manually changed from the database to "admin".
+## Note : 
+Upon initial setup, users are assigned the role of "user" by default. To access the functionalities for adding, updating, and deleting products, the user role needs to be manually changed from the database to "admin".
 
 ## Technical Requirements
 ## Technology Stack:
